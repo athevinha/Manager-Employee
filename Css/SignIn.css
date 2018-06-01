@@ -1,0 +1,58 @@
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+html,body{
+}
+.btn{
+    text-align: center;
+}
+ul li{
+    float: left;
+    padding: 0px 0%;
+    position: relative;
+    left: 10%;
+    top: 5%;
+    height: 70%;
+    background: rgb(165, 165, 165);
+    text-align: center;
+    border: 5px solid rgb(230, 230, 230);
+    transition: 0.4s;
+    cursor: pointer;
+}
+h4{
+    transition: 0.4s;
+    text-align: center;
+    color: red;
+}
+a:hover{
+    color: black;
+}
+li:hover{
+    background: grey;
+}
+#Difer{
+    left: 5% !important;
+    width: 15%;
+    text-align: center;
+    height: 70%;
+    animation: fucking;
+    animation-iteration-count: infinite;
+}
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+header{
+    background: rgb(230, 230, 230);
+    width: 100%;
+    height: 100px;
+}
+.ground{
+    width: 100%;
+    height: 100%;
+}
